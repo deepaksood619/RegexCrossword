@@ -85,3 +85,13 @@ Level | Name | Solution
 3 | Ghost | OOOO
 4 | Symbolism | \*\*//
 5 | Airstrip One | 1984
+
+### 3. Intermediate
+
+Level | Name | Solution
+:----:|:----:|:--------:
+1 | Always remember | ATOWEL
+2 | Johnny | WALKER
+3 | Earth | FORTY-TWO 
+4 | Encyclopedia | DONTPANIC
+5 | Technology | TURNOFFANDON
