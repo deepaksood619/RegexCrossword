@@ -1,7 +1,5 @@
 # Regular Expressions
 
-**My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
-
 ### Resources for learning regular expressions -
 
 1. [Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)
@@ -54,8 +52,14 @@ https://regexcrossword.com/ | Beginner - Advanced
 https://regexone.com/ | Beginner
 http://play.inginf.units.it/#/ | Advanced
 
-  
-## Solution to **[RegexCrossword](https://regexcrossword.com/)**
+
+## Regex Crossword
+
+### Solution to **[RegexCrossword](https://regexcrossword.com/)**
+
+**My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
+
+**Rank - 1250**
 
 ### 1. Tutorial
 
@@ -72,4 +76,12 @@ Level | Name | Solution
 9 | Space | ' '
 
 
-### 
+### 2. Beginner
+
+Level | Name | Solution
+:----:|:----:|:--------:
+1 | Beatles | HELP
+2 | Naughty | BOBE
+3 | Ghost | OOOO
+4 | Symbolism | \*\*//
+5 | Airstrip One | 1984
