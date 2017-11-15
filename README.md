@@ -95,3 +95,13 @@ Level | Name | Solution
 3 | Earth | FORTY-TWO 
 4 | Encyclopedia | DONTPANIC
 5 | Technology | TURNOFFANDON
+
+### 4. Experienced
+
+Level | Name | Solution
+:----:|:----:|:--------:
+1 | Royal Dinner | FOODFITFORAKING
+2 | Regular Workout | REGULAREXPRESSIONOFTHEDAY
+3 | We apologise for the inconvenience | ANSWERTHEGREATQUESTIONNOW
+4 | Questionable | ?!!!?!?!?!!!?!!!?!?!?!!!?
+5 | Hamlet | TOBEORNOTTOBEAREGULARREGX
