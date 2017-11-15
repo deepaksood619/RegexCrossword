@@ -57,3 +57,19 @@ http://play.inginf.units.it/#/ | Advanced
   
 ## Solution to **[RegexCrossword](https://regexcrossword.com/)**
 
+### 1. Tutorial
+
+Level | Name | Solution
+:----:|:----:|:--------:
+1 | The OR symbol | A
+2 | A Range of characters | B
+3 | Characters NOT to include | C
+4 | Zero or more | A A
+5 | Zero or one | A B
+6 | One or more | A A
+7 | Backreference | A A
+8 | Specific amount | A A
+9 | Space | ' '
+
+
+### 
