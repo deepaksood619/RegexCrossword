@@ -116,3 +116,13 @@ Level | Name | Solution
 3 | Horn | RATS ABUT TUBA STAR
 4 | Open the lid | TRAP RAJA AJAR PART
 5 | Time Walker | STEP TIME EMIT PETS
+
+### 6. Double Cross
+
+Level | Name | Solution
+:----:|:----:|:--------:
+1 | Telekinesis | ET
+2 | GMC Vandura | A-T EAM
+3 | Bat Man | NOS FER ATU
+4 | Big Mac | PULP FICTION
+5 | The Lektor Device | FROM RUSSIA WITH LOVE
