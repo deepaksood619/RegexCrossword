@@ -59,7 +59,7 @@ http://play.inginf.units.it/#/ | Advanced
 
 **My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
 
-**Rank - 1250 Out Of 38485**
+**Rank - 943 Out Of 38485**
 
 **Underscore '_' represents SPACE**
 
@@ -169,3 +169,9 @@ Level | Name | Solution
 3 | Pollen | SES A"ED .B.B_ I_D" R.N
 4 | Stationary | S_E_ ASVTL "OET"L B_S=___ YSOEIY VTTEM FR_A
 5 | Winnie | 'NIB THOSE TFA__W TH_ISNG BEEEEEEE O_RR_HO \_STE__ KING_ VNR.
+
+
+## Player Puzzles
+Sr.No. | Name | Created By | Solution
+:-----:|:----:|:----------:|:--------:
+1 | Binary | #6450 | 11001 11100 01010 01111 00001
