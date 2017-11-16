@@ -159,3 +159,13 @@ Level | Name | Solution
 4 | Laertes | TOO_MUC H_OF_WA TER_HAS T_THOU, \_POOR_O PHELIA!
 5 | Memento | ALAS,\_ POOR_Y ORICK! \_...\_A \_FELLO W_OF_I NFINIT E_JEST
 6 | The End | NOW_C RACKS \_A_NO BLE_H EART. \_GOOD \_NIGH T,\_SW EET_P RINCE
+
+## 10. Hexagonal
+
+Level | Name | Solution
+:----:|:----:|:--------:
+1 | Buzz buzz | H IV E
+2 | Garden | FL RO! WE
+3 | Pollen | SES A"ED .B.B_ I_D" R.N
+4 | Stationary | S_E_ ASVTL "OET"L B_S=___ YSOEIY VTTEM FR_A
+5 | Winnie | 'NIB THOSE TFA__W TH_ISNG BEEEEEEE O_RR_HO \_STE__ KING_ VNR.
