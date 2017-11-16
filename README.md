@@ -148,3 +148,14 @@ Level | Name | Solution
 3 | Kil | M?BO SNUO ?PYO
 4 | Fol | 70MW /DBE 1_SP :XNA
 5 | Lul | TRAN7 24L?_ AM5$L -WE3O DEFF?
+
+### 9. Hamlet
+
+Level | Name | Solution
+:----:|:----:|:--------:
+1 | The Ghost | REVENGE \_HIS\_FO UL_AND_ MOST_UN NATURAL \_MURDER
+2 | Hamlet and Ophelia | TO_BE,_ OR_NOT_ TO_BE,_ THAT_IS \_THE_QU ESTION_
+3 | The Play | HE_POIS ONS_HIM \_I'\_THE \_GARDEN
+4 | Laertes | TOO_MUC H_OF_WA TER_HAS T_THOU, \_POOR_O PHELIA!
+5 | Memento | ALAS,\_ POOR_Y ORICK! \_...\_A \_FELLO W_OF_I NFINIT E_JEST
+6 | The End | NOW_C RACKS \_A_NO BLE_H EART. \_GOOD \_NIGH T,\_SW EET_P RINCE
