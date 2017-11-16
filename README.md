@@ -138,3 +138,13 @@ Level | Name | Solution
 3 | Big and hot | NEW_ YORK
 4 | Alpha World City | KUAL A_LUM PUR
 5 | Home | \_CO PEN HAG EN\_
+
+### 8. Volapuk
+
+Level | Name | Solution
+:----:|:----:|:--------:
+1 | Bal | GPO ZKS
+2 | Tel | M0Y P.H P\2
+3 | Kil | M?BO SNUO ?PYO
+4 | Fol | 70MW /DBE 1_SP :XNA
+5 | Lul | TRAN7 24L?_ AM5$L -WE3O DEFF?
