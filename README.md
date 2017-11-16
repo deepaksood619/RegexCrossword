@@ -59,7 +59,7 @@ http://play.inginf.units.it/#/ | Advanced
 
 **My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
 
-**Rank - 1250**
+**Rank - 1250 Out Of 38485**
 
 ### 1. Tutorial
 
@@ -90,18 +90,29 @@ Level | Name | Solution
 
 Level | Name | Solution
 :----:|:----:|:--------:
-1 | Always remember | ATOWEL
-2 | Johnny | WALKER
-3 | Earth | FORTY-TWO 
-4 | Encyclopedia | DONTPANIC
-5 | Technology | TURNOFFANDON
+1 | Always remember | ATO WEL
+2 | Johnny | WA LK ER
+3 | Earth | FOR TY- TWO 
+4 | Encyclopedia | DON TPA NIC
+5 | Technology | TURN OFFA NDON
 
 ### 4. Experienced
 
 Level | Name | Solution
 :----:|:----:|:--------:
-1 | Royal Dinner | FOODFITFORAKING
-2 | Regular Workout | REGULAREXPRESSIONOFTHEDAY
-3 | We apologise for the inconvenience | ANSWERTHEGREATQUESTIONNOW
-4 | Questionable | ?!!!?!?!?!!!?!!!?!?!?!!!?
-5 | Hamlet | TOBEORNOTTOBEAREGULARREGX
+1 | Royal Dinner | FOODF ITFOR AKING
+2 | Regular Workout | REGUL AREXP RESSI ONOFT HEDAY
+3 | We apologise for the inconvenience | ANSWE RTHEG REATQ UESTI ONNOW
+4 | Questionable | ?!!!? !?!?! !!?!! !?!?! ?!!!?
+5 | Hamlet | TOBEO RNOTT OBEAR EGULA RREGX
+
+
+### 5. Palindromeda
+
+Level | Name | Solution
+:----:|:----:|:--------:
+1 | Ten o'clock | NET EWE TEN
+2 | Third | GEL EYE LEG
+3 | Horn | RATS ABUT TUBA STAR
+4 | Open the lid | TRAP RAJA AJAR PART
+5 | Time Walker | STEP TIME EMIT PETS
