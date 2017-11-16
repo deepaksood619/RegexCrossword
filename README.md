@@ -61,6 +61,8 @@ http://play.inginf.units.it/#/ | Advanced
 
 **Rank - 1250 Out Of 38485**
 
+**Underscore '_' represents SPACE**
+
 ### 1. Tutorial
 
 Level | Name | Solution
@@ -124,5 +126,15 @@ Level | Name | Solution
 1 | Telekinesis | ET
 2 | GMC Vandura | A-T EAM
 3 | Bat Man | NOS FER ATU
-4 | Big Mac | PULP FICTION
-5 | The Lektor Device | FROM RUSSIA WITH LOVE
+4 | Big Mac | PUL P_F ICT ION
+5 | The Lektor Device | FRO M_R USS IA_ WIT H_L OVE
+
+### 7. Cities
+
+Level | Name | Solution
+:----:|:----:|:--------:
+1 | Pisco Sour | LI MA
+2 | Roman Latin | LON DIN IUM
+3 | Big and hot | NEW_ YORK
+4 | Alpha World City | KUAL A_LUM PUR
+5 | Home | \_CO PEN HAG EN\_
