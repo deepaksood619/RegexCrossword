@@ -59,7 +59,8 @@ http://play.inginf.units.it/#/ | Advanced
 
 **My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
 
-**Rank - 943 Out Of 38485**
+**Rank - 606 Out Of 38485**
+**Number of Puzzles Solved - 65**
 
 **Underscore '_' represents SPACE**
 
@@ -175,3 +176,4 @@ Level | Name | Solution
 Sr.No. | Name | Created By | Solution
 :-----:|:----:|:----------:|:--------:
 1 | Binary | #6450 | 11001 11100 01010 01111 00001
+2 | Letter | #2009 | TH_IS I_S_L \_ETT_ \_____ \_ERA_
