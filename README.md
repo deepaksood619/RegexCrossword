@@ -59,8 +59,8 @@ http://play.inginf.units.it/#/ | Advanced
 
 **My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
 
-**Rank - 606 Out Of 38485**
-**Number of Puzzles Solved - 65**
+**Rank - 460 Out Of 38485**
+**Number of Puzzles Solved - 75**
 
 **Underscore '_' represents SPACE**
 
