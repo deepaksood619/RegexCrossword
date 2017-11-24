@@ -59,13 +59,13 @@ http://play.inginf.units.it/#/ | Advanced
 
 **My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
 
-**Rank - 261 Out Of 38756** 
+**Rank - 235 Out Of 38756** 
 
-![Rank](https://img.shields.io/badge/Rank-261%20out%20of%2038756-brightgreen.svg "And Working")
+![Rank](https://img.shields.io/badge/Rank-235%20out%20of%2038756-brightgreen.svg "And Working")
 
-**Number of Puzzles Solved - 106** 
+**Number of Puzzles Solved - 115** 
 
-![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-106-orange.svg "And Working")
+![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-115-orange.svg "And Working")
 
 **Underscore '_' represents SPACE**
 
@@ -183,3 +183,4 @@ Sr.No. | Name | Created By | Solution
 1 | Binary | #6450 | 11001 11100 01010 01111 00001
 2 | Letter | #2009 | TH_IS I_S_L \_ETT_ \_____ \_ERA_
 3 | Morse | #2009 | .-. . --. . -..-  -.-. .-. -.-. .-. --- ... ... .-- --- .-. -..  .. ...  -.-. --- --- .-.. (REGEXCRCROSSWORDISCOOL)
+4 | Regex Picross | #3162 | ![Picross Solution](/images/picross.png)
