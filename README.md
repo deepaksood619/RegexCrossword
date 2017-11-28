@@ -1,5 +1,9 @@
 # Regular Expressions
 
+![I know regular expressions](/images/regular-expression.png)
+
+[Source: xkcd](https://xkcd.com/208/)
+
 ### Resources for learning regular expressions -
 
 1. [Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)
@@ -184,3 +188,6 @@ Sr.No. | Name | Created By | Solution
 2 | Letter | #2009 | TH_IS I_S_L \_ETT_ \_____ \_ERA_
 3 | Morse | #2009 | .-. . --. . -..-  -.-. .-. -.-. .-. --- ... ... .-- --- .-. -..  .. ...  -.-. --- --- .-.. (REGEXCRCROSSWORDISCOOL)
 4 | Regex Picross | #3162 | ![Picross Solution](/images/picross.png)
+
+---
+![Regular Expressions](/images/regular-expression-problems.png)
