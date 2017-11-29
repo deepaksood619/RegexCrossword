@@ -63,13 +63,13 @@ http://play.inginf.units.it/#/ | Advanced
 
 **My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
 
-**Rank - 211 Out Of 38756** 
+**Rank - 195 Out Of 38931** 
 
-![Rank](https://img.shields.io/badge/Rank-211%20out%20of%2038756-brightgreen.svg "And Working")
+![Rank](https://img.shields.io/badge/Rank-195%20out%20of%2038931-brightgreen.svg "And Working")
 
-**Number of Puzzles Solved - 125** 
+**Number of Puzzles Solved - 135** 
 
-![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-125-orange.svg "And Working")
+![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-135-orange.svg "And Working")
 
 **Underscore '_' represents SPACE**
 
@@ -189,6 +189,7 @@ Sr.No. | Name | Created By | Solution
 3 | Morse | #2009 | .-. . --. . -..-  -.-. .-. -.-. .-. --- ... ... .-- --- .-. -..  .. ...  -.-. --- --- .-.. (REGEXCRCROSSWORDISCOOL)
 4 | Regex Picross | #3162 | ![Picross Solution](/images/picross.png)
 5 | Unique Puzzle | #21964 | 8259173064!
+6 | Checkmate, Atheists | #14171 | ![Checkmate Solution](/images/checkmate.png)
 
 ---
 ![Regular Expressions](/images/regular-expression-problems.png)
