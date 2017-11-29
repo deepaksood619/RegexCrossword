@@ -188,6 +188,7 @@ Sr.No. | Name | Created By | Solution
 2 | Letter | #2009 | TH_IS I_S_L \_ETT_ \_____ \_ERA_
 3 | Morse | #2009 | .-. . --. . -..-  -.-. .-. -.-. .-. --- ... ... .-- --- .-. -..  .. ...  -.-. --- --- .-.. (REGEXCRCROSSWORDISCOOL)
 4 | Regex Picross | #3162 | ![Picross Solution](/images/picross.png)
+5 | Unique Puzzle | #21964 | 8259173064!
 
 ---
 ![Regular Expressions](/images/regular-expression-problems.png)
