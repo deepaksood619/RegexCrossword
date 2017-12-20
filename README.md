@@ -20,11 +20,11 @@
 ### Different Regex Engines -
 
   1. C#
-	2. Ruby
-	3. PHP
-	4. Perl (PCRE - Perl Compatible Regular Expressions)
-	5. Java
-	6. JavaScript
+  2. Ruby
+  3. PHP
+  4. Perl (PCRE - Perl Compatible Regular Expressions)
+  5. Java
+  6. JavaScript
   7. Python
   
 ### Advanced Topics -
@@ -63,13 +63,13 @@ http://play.inginf.units.it/#/ | Advanced
 
 **My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
 
-**Rank - 97 Out Of 38931** 
+**Rank - 87 Out Of 39586** 
 
-![Rank](https://img.shields.io/badge/Rank-97%20out%20of%2038931-brightgreen.svg "And Working")
+![Rank](https://img.shields.io/badge/Rank-87%20out%20of%2039586-brightgreen.svg "And Working")
 
-**Number of Puzzles Solved - 218** 
+**Number of Puzzles Solved - 234** 
 
-![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-218-orange.svg "And Working")
+![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-234-orange.svg "And Working")
 
 **Underscore '_' represents SPACE**
 
