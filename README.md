@@ -67,9 +67,9 @@ http://play.inginf.units.it/#/ | Advanced
 
 ![Rank](https://img.shields.io/badge/Rank-76%20out%20of%2039586-brightgreen.svg "And Working")
 
-**Number of Puzzles Solved - 246** 
+**Number of Puzzles Solved - 249** 
 
-![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-246-orange.svg "And Working")
+![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-249-orange.svg "And Working")
 
 **Underscore '_' represents SPACE**
 
