@@ -63,13 +63,13 @@ http://play.inginf.units.it/#/ | Advanced
 
 **My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
 
-**Rank - 76 Out Of 39586** 
+**Rank - 69 Out Of 39918** 
 
-![Rank](https://img.shields.io/badge/Rank-76%20out%20of%2039586-brightgreen.svg "And Working")
+![Rank](https://img.shields.io/badge/Rank-69%20out%20of%2039586-brightgreen.svg "And Working")
 
-**Number of Puzzles Solved - 249** 
+**Number of Puzzles Solved - 265** 
 
-![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-249-orange.svg "And Working")
+![Number of puzzles solved](https://img.shields.io/badge/Puzzles%20Solved-265-orange.svg "And Working")
 
 **Underscore '_' represents SPACE**
 
