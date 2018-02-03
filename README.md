@@ -63,7 +63,7 @@ http://play.inginf.units.it/#/ | Advanced
 
 **My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
 
-**Rank - 64 Out Of 40407** 
+**Rank - 64 Out Of 40142** 
 
 ![Rank](https://img.shields.io/badge/Rank-64%20out%20of%2040142-brightgreen.svg "And Working")
 
