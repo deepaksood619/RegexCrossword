@@ -61,7 +61,7 @@ http://play.inginf.units.it/#/ | Advanced
 
 ### Solution to **[RegexCrossword](https://regexcrossword.com/)**
 
-**My Profile - [Regex Crossword Profile](https://regexcrossword.com/profile/38485)**
+**My Profile - [Regex Crossword Profile](https://regexcrossword.com/players/38485)**
 
 **Rank - 45 Out Of 47450**
 
